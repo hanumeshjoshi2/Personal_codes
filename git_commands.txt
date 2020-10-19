@@ -1,0 +1,9 @@
+git status
+git add -A
+git commit -m <message> ex:"message"
+git commit -m "updated"
+git pull origin <branch> ex: "main"
+git pull origin main
+git push origin <branch> ex: "main"
+git push orgin main
+
