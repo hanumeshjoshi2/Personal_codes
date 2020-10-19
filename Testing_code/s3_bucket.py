@@ -13,8 +13,8 @@ from botocore.client import Config
 from botocore.exceptions import EndpointConnectionError
 
 
-ACCESS_ID = '2KQ2Q6KAKR2Q4OWLORQQ'
-SECRET_KEY = '0uUoaxpUCb8b6Vy0V8diU3Ok8XVmixWn+QfmHauLioI'
+ACCESS_ID = '' #write server Access ID
+SECRET_KEY = '' #write secret key of server
 
 # sleep 5 min once file succesfully uplode.
 def sleep_time(start_time,end_time,t_time):# function input Arguments (start time before upload) (end time after upload)(sleep time)
